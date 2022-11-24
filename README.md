@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avni Egemen Uzun. I am Computer engineering student
+- 👋 Hi, I’m Avni Egemen Uzun. I am Computer Engineering student
 - 👀 I’m interested in backend development , game development and defense industry
 - 🌱 I experienced programming with C, C++, C#, Java, Python, Sql.
 - 📫 How to reach me uzun.aegemen@gmail.com
